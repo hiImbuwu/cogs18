@@ -1,2 +1,2 @@
 # cogs18
-simple gambling bot
+simple gambling bot for Cogs 18 Final
